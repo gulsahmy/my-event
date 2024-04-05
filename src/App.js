@@ -17,10 +17,9 @@ function App() {
       <UseStateCounter /> 
       <UseStateObject /> 
       <Forms />       
-      <MouseEvent /> 
       <FormsObject /> <br/><br/><br/>
       <KeyboardClipboard />
-
+      <MouseEvent /> 
     </Container>
   );
 }
